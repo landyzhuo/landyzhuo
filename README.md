@@ -1,7 +1,6 @@
-#👋 Hi, I’m @landyzhuo
+# 👋 Hey... Here's Landy!
 
 - 🏠 Based in Suzhou, China
 - 🧠 Prospective Computational Cognitive Scientist
-- 🧑🏻‍🎓 Student at UWC Changshu China
 - 🏃🏻 Distance & Trail Runner
 - 🍂 Leaf Collector

@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jianan (Landy) Zhuo</h1>
 <h3 align="center">A computational cognitive scientist from Kaosiung, Taiwan.</h3>
 
+<img src="chamelion.png" alt="Mysterious Blue Chamelion">
+
 - 🔭 I’m currently working on [TaskIt](https://github.com/landyzhuo/taskit)
 
 - 🌱 I’m currently learning **pytorch**

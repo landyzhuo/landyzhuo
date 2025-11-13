@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@landy_zhuo_17492](https://medium.com/@landy_zhuo_17492)
 
-- 💬 Ask me about **tensorflow, scikit-learn, psychopy**
+- 💬 Ask me about **scikit-learn, nltk, psychopy**
 
 - 📫 How to reach me **landy_zhuo@outlook.com**
 

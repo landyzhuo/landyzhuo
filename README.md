@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://landy-zhuo.eu.org/Projects.html](https://landy-zhuo.eu.org/Projects.html)
 
-- 📝 I regularly write articles on [https://medium.com/@landy_zhuo_17492](https://medium.com/@landy_zhuo_17492)
+- 📝 I regularly write articles on [https://medium.com/@landy_zhuo_17492](https://medium.com/@landy_zhuo_17492) and [https://landyzhuo.vercel.app/](https://landyzhuo.vercel.app/)
 
 - 💬 Ask me about **scikit-learn, nltk, psychopy**
 

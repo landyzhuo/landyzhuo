@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jianan (Landy) Zhuo</h1>
-<h3 align="center">Incoming Student-Athlete and Aritificial Intelligence + Cognitive Science Major at Grinnell College</h3>
+<h3 align="center">Incoming TF/XC Student-Athlete and Computer Science + Psychology Major at Grinnell College</h3>
 
 - 💬 Ask me about **tensorflow, scikit-learn, psychopy**
 
